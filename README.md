@@ -25,6 +25,7 @@
 - list branch: git branch
 - create branch: git branch <name>
 - switch branch: git checkout <branch_name> / git switch <branch_name>
+- push branch: git push -u origin <branch_name>
 
 
 
